@@ -1,0 +1,44 @@
+{
+  "koders": [
+    {
+      "nombre": "Danny",
+      "edad": 25,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Nestor",
+      "edad": 29,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Chucho",
+      "edad": 21,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Alan",
+      "edad": 33,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Jose",
+      "edad": 17,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "David",
+      "edad": 31,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Yusef",
+      "edad": 19,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Aaron",
+      "edad": 23,
+      "genero": "masculino"
+    }
+  ]
+}
