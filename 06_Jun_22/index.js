@@ -14,7 +14,6 @@ const DB_HOST = process.env.DB_HOST;
 const DB_NAME = process.env.DB_NAME;
 
 //const URL = `mongodb+srv://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/${DB_NAME}?retryWrites=true&w=majority`;
-const URL = "mongodb+srv://Luisvera:PassUser23.@cluster0.hsqgk.mongodb.net/kodemia?retryWrites=true&w=majority"
 
 const app = express();
 
